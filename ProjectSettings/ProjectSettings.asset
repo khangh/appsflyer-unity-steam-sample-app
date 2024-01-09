@@ -757,11 +757,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: a46f1891-4ac7-4a43-8a14-88cf8d812cc3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: appsflyer-unity-steam-sample-app
+  organizationId: unity_92cf1ebfae2a8191472a
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
